@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_sheet"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <ImageView
+        android:id="@+id/imgSheet"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:contentDescription="Aviso"
+        android:src="@drawable/ic_error" />
+
+    <TextView
+        android:id="@+id/tvSheetTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:gravity="center"
+        android:text="Título"
+        android:textColor="@color/proinstalar_dark_steel"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvSheetMensaje"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="Mensaje"
+        android:textColor="@color/proinstalar_text_muted"
+        android:textSize="14sp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnSheetPrimario"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="22dp"
+        android:text="ENTENDIDO"
+        app:backgroundTint="@color/proinstalar_primary"
+        app:cornerRadius="12dp" />
+
+    <TextView
+        android:id="@+id/btnSheetSecundario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:background="?attr/selectableItemBackground"
+        android:padding="8dp"
+        android:text="Opción secundaria"
+        android:textColor="@color/proinstalar_primary"
+        android:textStyle="bold"
+        android:visibility="gone" />
+</LinearLayout>

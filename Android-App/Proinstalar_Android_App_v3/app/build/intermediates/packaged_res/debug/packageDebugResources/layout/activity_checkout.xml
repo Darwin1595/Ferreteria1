@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/proinstalar_primary"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="32dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="4dp">
+        <ImageView
+            android:layout_width="220dp"
+            android:layout_height="125dp"
+            android:padding="8dp"
+            android:contentDescription="Logo PROINSTALAR"
+            android:scaleType="fitCenter"
+            android:src="@drawable/logo_proinstalar_img" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/tvCheckoutTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¡Compra Exitosa!"
+        android:textColor="@color/proinstalar_white"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/tvCheckoutDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tu pedido ha sido procesado y pronto será enviado a tu dirección."
+        android:textColor="@color/proinstalar_white"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_marginBottom="40dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnVolverMenu"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="VOLVER AL MENÚ"
+        android:textColor="@color/proinstalar_primary"
+        app:backgroundTint="@color/proinstalar_white"
+        app:cornerRadius="8dp" />
+
+</LinearLayout>

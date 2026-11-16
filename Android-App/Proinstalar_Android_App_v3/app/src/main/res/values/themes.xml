@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ParcialKotlinApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/proinstalar_primary</item>
+        <item name="colorPrimaryVariant">@color/proinstalar_primary_dark</item>
+        <item name="colorOnPrimary">@color/proinstalar_white</item>
+        <item name="android:statusBarColor">@color/proinstalar_dark_steel</item>
+    </style>
+</resources>

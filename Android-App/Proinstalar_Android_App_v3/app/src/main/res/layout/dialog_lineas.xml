@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_sheet">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:id="@+id/tvLineasTitulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Registrar"
+            android:textColor="@color/proinstalar_dark_steel"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/grupoLineasProveedor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:text="Proveedor"
+                android:textColor="@color/proinstalar_dark_steel"
+                android:textStyle="bold" />
+            <Spinner
+                android:id="@+id/spLineasProveedor"
+                android:layout_width="match_parent"
+                android:layout_height="48dp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="Producto"
+            android:textColor="@color/proinstalar_dark_steel"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/spLineasProducto"
+            android:layout_width="match_parent"
+            android:layout_height="48dp" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilLineasCantidad"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="Cantidad">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilLineasCosto"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="Costo unitario (COP)">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnLineasAgregar"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="8dp"
+            android:text="AGREGAR A LA LISTA"
+            android:textColor="@color/proinstalar_primary"
+            app:cornerRadius="12dp"
+            app:strokeColor="@color/proinstalar_primary" />
+
+        <TextView
+            android:id="@+id/tvLineasResumen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:background="@color/proinstalar_primary_light"
+            android:padding="12dp"
+            android:text="Aún no has agregado productos."
+            android:textColor="@color/proinstalar_dark_steel"
+            android:textSize="14sp" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilLineasNota"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:hint="Nota (opcional)">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textCapSentences" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnLineasConfirmar"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="16dp"
+            android:text="CONFIRMAR"
+            app:backgroundTint="@color/proinstalar_primary"
+            app:cornerRadius="12dp" />
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

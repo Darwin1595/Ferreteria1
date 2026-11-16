@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_sheet"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:src="@drawable/ic_check_circle"
+            app:tint="@color/proinstalar_primary" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="¡Agregado al carrito!"
+            android:textColor="@color/proinstalar_dark_steel"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/proinstalar_primary_light"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="12dp">
+        <ImageView
+            android:id="@+id/imgAgregado"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:background="@color/proinstalar_white"
+            android:contentDescription="Producto agregado"
+            android:padding="6dp"
+            android:scaleType="fitCenter" />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/tvAgregadoNombre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Producto"
+                android:textColor="@color/proinstalar_dark_steel"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvAgregadoPrecio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="$ 0"
+                android:textColor="@color/proinstalar_primary"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvAgregadoResumen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:text="En tu carrito"
+        android:textColor="@color/proinstalar_text_muted"
+        android:textSize="14sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnSeguir"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="0dp"
+            android:layout_height="52dp"
+            android:layout_marginEnd="8dp"
+            android:layout_weight="1"
+            android:text="SEGUIR"
+            android:textColor="@color/proinstalar_primary"
+            app:cornerRadius="12dp"
+            app:strokeColor="@color/proinstalar_primary" />
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnVerCarrito"
+            android:layout_width="0dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_weight="1"
+            android:text="VER CARRITO"
+            app:backgroundTint="@color/proinstalar_primary"
+            app:cornerRadius="12dp" />
+    </LinearLayout>
+</LinearLayout>

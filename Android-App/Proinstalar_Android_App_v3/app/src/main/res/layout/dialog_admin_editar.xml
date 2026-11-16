@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_sheet"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/tvAdminTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Título"
+        android:textColor="@color/proinstalar_dark_steel"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvAdminDetalle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Detalle"
+        android:textColor="@color/proinstalar_text_muted"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Estado"
+        android:textColor="@color/proinstalar_dark_steel"
+        android:textStyle="bold" />
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroupEstado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:selectionRequired="true"
+        app:singleSelection="true" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/tilValor"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:hint="Valor del servicio (COP)"
+        android:visibility="gone">
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etValorAdmin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnGuardarAdmin"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:text="GUARDAR CAMBIOS"
+        app:backgroundTint="@color/proinstalar_primary"
+        app:cornerRadius="12dp" />
+</LinearLayout>

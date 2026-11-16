@@ -1,0 +1,54 @@
+-- Script MySQL para Ferretería PROINSTALAR
+CREATE DATABASE IF NOT EXISTS proinstalar_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE proinstalar_db;
+
+CREATE TABLE IF NOT EXISTS Usuarios (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(100) NOT NULL,
+    Email VARCHAR(100) NOT NULL UNIQUE,
+    PasswordHash VARCHAR(255) NOT NULL,
+    Telefono VARCHAR(20),
+    Direccion VARCHAR(200),
+    Rol VARCHAR(20) DEFAULT 'CLIENTE',
+    FechaRegistro DATETIME DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS Categorias (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(100) NOT NULL,
+    Descripcion VARCHAR(255),
+    ImagenUrl VARCHAR(255)
+);
+
+CREATE TABLE IF NOT EXISTS Productos (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(150) NOT NULL,
+    Descripcion TEXT,
+    Precio DECIMAL(10,2) NOT NULL,
+    Stock INT NOT NULL DEFAULT 0,
+    CategoriaId INT NOT NULL,
+    ImagenUrl VARCHAR(255),
+    Estado BOOLEAN DEFAULT TRUE,
+    FOREIGN KEY (CategoriaId) REFERENCES Categorias(Id) ON DELETE CASCADE
+);
+
+CREATE TABLE IF NOT EXISTS TiposServicio (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(100) NOT NULL,
+    Descripcion TEXT,
+    PrecioBase DECIMAL(10,2) NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS Solicitudes (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    ClienteNombre VARCHAR(100) NOT NULL,
+    ClienteEmail VARCHAR(100) NOT NULL,
+    ClienteTelefono VARCHAR(20) NOT NULL,
+    ClienteDireccion VARCHAR(200) NOT NULL,
+    TipoServicioId INT NOT NULL,
+    Total DECIMAL(10,2) NOT NULL,
+    Estado VARCHAR(30) DEFAULT 'PENDIENTE',
+    Notas TEXT,
+    FechaCreacion DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (TipoServicioId) REFERENCES TiposServicio(Id)
+);

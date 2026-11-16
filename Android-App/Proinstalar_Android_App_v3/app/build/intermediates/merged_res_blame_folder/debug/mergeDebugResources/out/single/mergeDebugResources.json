@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_prod_pintura2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\prod_pintura2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_logo_proinstalar_img.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\logo_proinstalar_img.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_chip_categoria.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\chip_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_error.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_bg_header.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\bg_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_prod_gas2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\prod_gas2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_prod_herramienta.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\prod_herramienta.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_lista_admin.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_lista_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_prod_herramienta2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\prod_herramienta2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_dialog_producto.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\dialog_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_calculadora.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_calculadora.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_fast_thumb.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\fast_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_prod_gas1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\prod_gas1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_servicio.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_servicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_contacto.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_contacto.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_prod_herramienta1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\prod_herramienta1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_paint.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_paint.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_dialog_lineas.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\dialog_lineas.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_prod_gas.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\prod_gas.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_historial.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_historial.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_item_carrito.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\item_carrito.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_bg_sheet.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\bg_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_mision.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_mision.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_dialog_ajuste.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\dialog_ajuste.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_fast_track.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\fast_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_dialog_mensaje.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\dialog_mensaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_remove.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_dialog_admin_editar.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\dialog_admin_editar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_chat.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_perfil.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_item_producto.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\item_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.parcialkotlinapp-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.parcialkotlinapp-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_logo_proinstalar.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\logo_proinstalar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_view_card_opcion.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\view_card_opcion.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_bg_pill.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\bg_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_assignment.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_bg_circle_light.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\bg_circle_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_item_historial.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\item_historial.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_dialog_agregado.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\dialog_agregado.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_prod_pintura1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\prod_pintura1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_dialog_perfil.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\dialog_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_dialog_proveedor.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\dialog_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_detalle_producto.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_detalle_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_prod_pintura.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\prod_pintura.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_build.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_build.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-debug-34:\\drawable_ic_receipt.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10.2\\com.example.parcialkotlinapp-main-36:\\drawable\\ic_receipt.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="proinstalar_bg_light">#F4F6F8</color>
+    <color name="proinstalar_card_border">#E2E8F0</color>
+    <color name="proinstalar_dark_steel">#1E252B</color>
+    <color name="proinstalar_primary">#1B4FA0</color>
+    <color name="proinstalar_primary_dark">#123670</color>
+    <color name="proinstalar_primary_light">#E8F0FB</color>
+    <color name="proinstalar_text_muted">#5A6578</color>
+    <color name="proinstalar_white">#FFFFFF</color>
+    <string name="app_name">PROINSTALAR Ferretería</string>
+    <string name="tagline_ferreteria">Herramientas, Materiales y Servicios Certificados</string>
+    <style name="Theme.ParcialKotlinApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/proinstalar_primary</item>
+        <item name="colorPrimaryVariant">@color/proinstalar_primary_dark</item>
+        <item name="colorOnPrimary">@color/proinstalar_white</item>
+        <item name="android:statusBarColor">@color/proinstalar_dark_steel</item>
+    </style>
+</resources>
